@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## プロジェクトページ
 
 You can use the [editor on GitHub](https://github.com/devghedev/ubiquitous-telegram/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
